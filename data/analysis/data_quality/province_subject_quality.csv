@@ -1,0 +1,409 @@
+﻿province_code,mon_thi,ten_mon,tong_thi_sinh,so_bai_co_diem,ty_le_co_diem_pct
+01,toan,Toán,125419,123673,98.6079
+01,ngu_van,Ngữ văn,125419,124184,99.0153
+01,ngoai_ngu,Ngoại ngữ,125419,59396,47.3581
+01,vat_li,Vật lý,125419,37050,29.541
+01,hoa_hoc,Hóa học,125419,17525,13.9732
+01,sinh_hoc,Sinh học,125419,3895,3.1056
+01,lich_su,Lịch sử,125419,57303,45.6892
+01,dia_li,Địa lý,125419,38349,30.5767
+01,gdkt_pl,GD Kinh tế & Pháp luật,125419,29851,23.801
+01,tin_hoc,Tin học,125419,1530,1.2199
+01,cong_nghe_nn,Công nghệ nông nghiệp,125419,915,0.7296
+01,cong_nghe_cn,Công nghệ công nghiệp,125419,113,0.0901
+04,toan,Toán,5607,5324,94.9527
+04,ngu_van,Ngữ văn,5607,5497,98.0382
+04,ngoai_ngu,Ngoại ngữ,5607,824,14.6959
+04,vat_li,Vật lý,5607,1273,22.7038
+04,hoa_hoc,Hóa học,5607,695,12.3952
+04,sinh_hoc,Sinh học,5607,497,8.8639
+04,lich_su,Lịch sử,5607,3910,69.7343
+04,dia_li,Địa lý,5607,2459,43.8559
+04,gdkt_pl,GD Kinh tế & Pháp luật,5607,1073,19.1368
+04,tin_hoc,Tin học,5607,73,1.3019
+04,cong_nghe_nn,Công nghệ nông nghiệp,5607,195,3.4778
+04,cong_nghe_cn,Công nghệ công nghiệp,5607,36,0.6421
+08,toan,Toán,18050,17589,97.446
+08,ngu_van,Ngữ văn,18050,17896,99.1468
+08,ngoai_ngu,Ngoại ngữ,18050,2194,12.1551
+08,vat_li,Vật lý,18050,2678,14.8366
+08,hoa_hoc,Hóa học,18050,2058,11.4017
+08,sinh_hoc,Sinh học,18050,1666,9.2299
+08,lich_su,Lịch sử,18050,13063,72.3712
+08,dia_li,Địa lý,18050,6796,37.651
+08,gdkt_pl,GD Kinh tế & Pháp luật,18050,5207,28.8476
+08,tin_hoc,Tin học,18050,322,1.7839
+08,cong_nghe_nn,Công nghệ nông nghiệp,18050,1861,10.3102
+08,cong_nghe_cn,Công nghệ công nghiệp,18050,86,0.4765
+11,toan,Toán,7947,7467,93.96
+11,ngu_van,Ngữ văn,7947,7855,98.8423
+11,ngoai_ngu,Ngoại ngữ,7947,603,7.5878
+11,vat_li,Vật lý,7947,1072,13.4894
+11,hoa_hoc,Hóa học,7947,937,11.7906
+11,sinh_hoc,Sinh học,7947,585,7.3613
+11,lich_su,Lịch sử,7947,5649,71.0834
+11,dia_li,Địa lý,7947,4085,51.403
+11,gdkt_pl,GD Kinh tế & Pháp luật,7947,2326,29.2689
+11,tin_hoc,Tin học,7947,43,0.5411
+11,cong_nghe_nn,Công nghệ nông nghiệp,7947,237,2.9823
+11,cong_nghe_cn,Công nghệ công nghiệp,7947,168,2.114
+12,toan,Toán,4650,4497,96.7097
+12,ngu_van,Ngữ văn,4650,4580,98.4946
+12,ngoai_ngu,Ngoại ngữ,4650,449,9.6559
+12,vat_li,Vật lý,4650,989,21.2688
+12,hoa_hoc,Hóa học,4650,739,15.8925
+12,sinh_hoc,Sinh học,4650,448,9.6344
+12,lich_su,Lịch sử,4650,3124,67.1828
+12,dia_li,Địa lý,4650,1963,42.2151
+12,gdkt_pl,GD Kinh tế & Pháp luật,4650,1286,27.6559
+12,tin_hoc,Tin học,4650,52,1.1183
+12,cong_nghe_nn,Công nghệ nông nghiệp,4650,168,3.6129
+12,cong_nghe_cn,Công nghệ công nghiệp,4650,14,0.3011
+14,toan,Toán,14162,13449,94.9654
+14,ngu_van,Ngữ văn,14162,14026,99.0397
+14,ngoai_ngu,Ngoại ngữ,14162,1144,8.078
+14,vat_li,Vật lý,14162,1668,11.778
+14,hoa_hoc,Hóa học,14162,1397,9.8644
+14,sinh_hoc,Sinh học,14162,1224,8.6428
+14,lich_su,Lịch sử,14162,8356,59.003
+14,dia_li,Địa lý,14162,7141,50.4237
+14,gdkt_pl,GD Kinh tế & Pháp luật,14162,6077,42.9106
+14,tin_hoc,Tin học,14162,293,2.0689
+14,cong_nghe_nn,Công nghệ nông nghiệp,14162,668,4.7168
+14,cong_nghe_cn,Công nghệ công nghiệp,14162,173,1.2216
+15,toan,Toán,19715,19338,98.0878
+15,ngu_van,Ngữ văn,19715,19596,99.3964
+15,ngoai_ngu,Ngoại ngữ,19715,3246,16.4646
+15,vat_li,Vật lý,19715,3213,16.2972
+15,hoa_hoc,Hóa học,19715,2158,10.946
+15,sinh_hoc,Sinh học,19715,1718,8.7142
+15,lich_su,Lịch sử,19715,12910,65.4831
+15,dia_li,Địa lý,19715,8686,44.0578
+15,gdkt_pl,GD Kinh tế & Pháp luật,19715,5758,29.2062
+15,tin_hoc,Tin học,19715,177,0.8978
+15,cong_nghe_nn,Công nghệ nông nghiệp,19715,1076,5.4578
+15,cong_nghe_cn,Công nghệ công nghiệp,19715,248,1.2579
+19,toan,Toán,22582,22192,98.273
+19,ngu_van,Ngữ văn,22582,22311,98.7999
+19,ngoai_ngu,Ngoại ngữ,22582,4169,18.4616
+19,vat_li,Vật lý,22582,5068,22.4427
+19,hoa_hoc,Hóa học,22582,3520,15.5876
+19,sinh_hoc,Sinh học,22582,1078,4.7737
+19,lich_su,Lịch sử,22582,12239,54.198
+19,dia_li,Địa lý,22582,9880,43.7517
+19,gdkt_pl,GD Kinh tế & Pháp luật,22582,7739,34.2707
+19,tin_hoc,Tin học,22582,229,1.0141
+19,cong_nghe_nn,Công nghệ nông nghiệp,22582,647,2.8651
+19,cong_nghe_cn,Công nghệ công nghiệp,22582,253,1.1204
+20,toan,Toán,10058,9788,97.3156
+20,ngu_van,Ngữ văn,10058,9922,98.6478
+20,ngoai_ngu,Ngoại ngữ,10058,1566,15.5697
+20,vat_li,Vật lý,10058,2088,20.7596
+20,hoa_hoc,Hóa học,10058,1253,12.4577
+20,sinh_hoc,Sinh học,10058,457,4.5436
+20,lich_su,Lịch sử,10058,6050,60.1511
+20,dia_li,Địa lý,10058,5298,52.6745
+20,gdkt_pl,GD Kinh tế & Pháp luật,10058,2395,23.8119
+20,tin_hoc,Tin học,10058,101,1.0042
+20,cong_nghe_nn,Công nghệ nông nghiệp,10058,722,7.1784
+20,cong_nghe_cn,Công nghệ công nghiệp,10058,11,0.1094
+22,toan,Toán,20591,20383,98.9898
+22,ngu_van,Ngữ văn,20591,20491,99.5144
+22,ngoai_ngu,Ngoại ngữ,20591,6241,30.3094
+22,vat_li,Vật lý,20591,4471,21.7134
+22,hoa_hoc,Hóa học,20591,2348,11.403
+22,sinh_hoc,Sinh học,20591,755,3.6667
+22,lich_su,Lịch sử,20591,10419,50.5998
+22,dia_li,Địa lý,20591,9595,46.598
+22,gdkt_pl,GD Kinh tế & Pháp luật,20591,6006,29.1681
+22,tin_hoc,Tin học,20591,191,0.9276
+22,cong_nghe_nn,Công nghệ nông nghiệp,20591,577,2.8022
+22,cong_nghe_cn,Công nghệ công nghiệp,20591,174,0.845
+24,toan,Toán,43812,43447,99.1669
+24,ngu_van,Ngữ văn,43812,43425,99.1167
+24,ngoai_ngu,Ngoại ngữ,43812,10780,24.6051
+24,vat_li,Vật lý,43812,13890,31.7036
+24,hoa_hoc,Hóa học,43812,9412,21.4827
+24,sinh_hoc,Sinh học,43812,1011,2.3076
+24,lich_su,Lịch sử,43812,21055,48.0576
+24,dia_li,Địa lý,43812,19859,45.3278
+24,gdkt_pl,GD Kinh tế & Pháp luật,43812,9627,21.9734
+24,tin_hoc,Tin học,43812,252,0.5752
+24,cong_nghe_nn,Công nghệ nông nghiệp,43812,760,1.7347
+24,cong_nghe_cn,Công nghệ công nghiệp,43812,85,0.194
+25,toan,Toán,47668,46961,98.5168
+25,ngu_van,Ngữ văn,47668,47312,99.2532
+25,ngoai_ngu,Ngoại ngữ,47668,12384,25.9797
+25,vat_li,Vật lý,47668,10141,21.2742
+25,hoa_hoc,Hóa học,47668,7438,15.6038
+25,sinh_hoc,Sinh học,47668,1937,4.0635
+25,lich_su,Lịch sử,47668,26384,55.3495
+25,dia_li,Địa lý,47668,24865,52.1629
+25,gdkt_pl,GD Kinh tế & Pháp luật,47668,10255,21.5134
+25,tin_hoc,Tin học,47668,297,0.6231
+25,cong_nghe_nn,Công nghệ nông nghiệp,47668,1104,2.316
+25,cong_nghe_cn,Công nghệ công nghiệp,47668,58,0.1217
+31,toan,Toán,56696,56376,99.4356
+31,ngu_van,Ngữ văn,56696,56293,99.2892
+31,ngoai_ngu,Ngoại ngữ,56696,19389,34.1982
+31,vat_li,Vật lý,56696,18591,32.7907
+31,hoa_hoc,Hóa học,56696,10181,17.9572
+31,sinh_hoc,Sinh học,56696,1257,2.2171
+31,lich_su,Lịch sử,56696,23149,40.83
+31,dia_li,Địa lý,56696,24929,43.9696
+31,gdkt_pl,GD Kinh tế & Pháp luật,56696,13470,23.7583
+31,tin_hoc,Tin học,56696,248,0.4374
+31,cong_nghe_nn,Công nghệ nông nghiệp,56696,989,1.7444
+31,cong_nghe_cn,Công nghệ công nghiệp,56696,190,0.3351
+33,toan,Toán,43187,42816,99.1409
+33,ngu_van,Ngữ văn,43187,42772,99.0391
+33,ngoai_ngu,Ngoại ngữ,43187,12061,27.9274
+33,vat_li,Vật lý,43187,14895,34.4895
+33,hoa_hoc,Hóa học,43187,10005,23.1667
+33,sinh_hoc,Sinh học,43187,1601,3.7071
+33,lich_su,Lịch sử,43187,21528,49.8483
+33,dia_li,Địa lý,43187,15839,36.6754
+33,gdkt_pl,GD Kinh tế & Pháp luật,43187,8521,19.7305
+33,tin_hoc,Tin học,43187,285,0.6599
+33,cong_nghe_nn,Công nghệ nông nghiệp,43187,772,1.7876
+33,cong_nghe_cn,Công nghệ công nghiệp,43187,244,0.565
+37,toan,Toán,47881,47461,99.1228
+37,ngu_van,Ngữ văn,47881,47354,98.8994
+37,ngoai_ngu,Ngoại ngữ,47881,14508,30.3001
+37,vat_li,Vật lý,47881,18221,38.0548
+37,hoa_hoc,Hóa học,47881,14120,29.4898
+37,sinh_hoc,Sinh học,47881,2050,4.2814
+37,lich_su,Lịch sử,47881,20904,43.6582
+37,dia_li,Địa lý,47881,19402,40.5213
+37,gdkt_pl,GD Kinh tế & Pháp luật,47881,5838,12.1927
+37,tin_hoc,Tin học,47881,209,0.4365
+37,cong_nghe_nn,Công nghệ nông nghiệp,47881,6,0.0125
+37,cong_nghe_cn,Công nghệ công nghiệp,47881,32,0.0668
+38,toan,Toán,42124,41337,98.1317
+38,ngu_van,Ngữ văn,42124,41846,99.34
+38,ngoai_ngu,Ngoại ngữ,42124,9067,21.5245
+38,vat_li,Vật lý,42124,10213,24.2451
+38,hoa_hoc,Hóa học,42124,8363,19.8533
+38,sinh_hoc,Sinh học,42124,1806,4.2873
+38,lich_su,Lịch sử,42124,23518,55.8304
+38,dia_li,Địa lý,42124,20689,49.1145
+38,gdkt_pl,GD Kinh tế & Pháp luật,42124,9501,22.5548
+38,tin_hoc,Tin học,42124,116,0.2754
+38,cong_nghe_nn,Công nghệ nông nghiệp,42124,469,1.1134
+38,cong_nghe_cn,Công nghệ công nghiệp,42124,10,0.0237
+40,toan,Toán,41676,41207,98.8747
+40,ngu_van,Ngữ văn,41676,41300,99.0978
+40,ngoai_ngu,Ngoại ngữ,41676,7780,18.6678
+40,vat_li,Vật lý,41676,10960,26.2981
+40,hoa_hoc,Hóa học,41676,8835,21.1993
+40,sinh_hoc,Sinh học,41676,2941,7.0568
+40,lich_su,Lịch sử,41676,20504,49.1986
+40,dia_li,Địa lý,41676,17892,42.9312
+40,gdkt_pl,GD Kinh tế & Pháp luật,41676,12144,29.1391
+40,tin_hoc,Tin học,41676,418,1.003
+40,cong_nghe_nn,Công nghệ nông nghiệp,41676,1131,2.7138
+40,cong_nghe_cn,Công nghệ công nghiệp,41676,170,0.4079
+42,toan,Toán,18215,18013,98.891
+42,ngu_van,Ngữ văn,18215,18048,99.0832
+42,ngoai_ngu,Ngoại ngữ,18215,4430,24.3206
+42,vat_li,Vật lý,18215,4482,24.6061
+42,hoa_hoc,Hóa học,18215,3353,18.4079
+42,sinh_hoc,Sinh học,18215,918,5.0398
+42,lich_su,Lịch sử,18215,9415,51.6882
+42,dia_li,Địa lý,18215,9476,52.0231
+42,gdkt_pl,GD Kinh tế & Pháp luật,18215,3953,21.7019
+42,tin_hoc,Tin học,18215,77,0.4227
+42,cong_nghe_nn,Công nghệ nông nghiệp,18215,108,0.5929
+42,cong_nghe_cn,Công nghệ công nghiệp,18215,2,0.011
+44,toan,Toán,21323,20991,98.443
+44,ngu_van,Ngữ văn,21323,21065,98.79
+44,ngoai_ngu,Ngoại ngữ,21323,3864,18.1213
+44,vat_li,Vật lý,21323,5781,27.1116
+44,hoa_hoc,Hóa học,21323,3724,17.4647
+44,sinh_hoc,Sinh học,21323,1353,6.3453
+44,lich_su,Lịch sử,21323,11037,51.761
+44,dia_li,Địa lý,21323,6739,31.6044
+44,gdkt_pl,GD Kinh tế & Pháp luật,21323,6871,32.2234
+44,tin_hoc,Tin học,21323,789,3.7002
+44,cong_nghe_nn,Công nghệ nông nghiệp,21323,1706,8.0008
+44,cong_nghe_cn,Công nghệ công nghiệp,21323,500,2.3449
+46,toan,Toán,13806,13539,98.0661
+46,ngu_van,Ngữ văn,13806,13628,98.7107
+46,ngoai_ngu,Ngoại ngữ,13806,3996,28.9439
+46,vat_li,Vật lý,13806,4390,31.7978
+46,hoa_hoc,Hóa học,13806,3034,21.976
+46,sinh_hoc,Sinh học,13806,995,7.207
+46,lich_su,Lịch sử,13806,5855,42.4091
+46,dia_li,Địa lý,13806,3415,24.7356
+46,gdkt_pl,GD Kinh tế & Pháp luật,13806,4067,29.4582
+46,tin_hoc,Tin học,13806,467,3.3826
+46,cong_nghe_nn,Công nghệ nông nghiệp,13806,963,6.9752
+46,cong_nghe_cn,Công nghệ công nghiệp,13806,184,1.3328
+48,toan,Toán,35525,34951,98.3842
+48,ngu_van,Ngữ văn,35525,35014,98.5616
+48,ngoai_ngu,Ngoại ngữ,35525,11508,32.3941
+48,vat_li,Vật lý,35525,14053,39.5581
+48,hoa_hoc,Hóa học,35525,8437,23.7495
+48,sinh_hoc,Sinh học,35525,1610,4.532
+48,lich_su,Lịch sử,35525,14381,40.4814
+48,dia_li,Địa lý,35525,9679,27.2456
+48,gdkt_pl,GD Kinh tế & Pháp luật,35525,7865,22.1393
+48,tin_hoc,Tin học,35525,904,2.5447
+48,cong_nghe_nn,Công nghệ nông nghiệp,35525,2071,5.8297
+48,cong_nghe_cn,Công nghệ công nghiệp,35525,90,0.2533
+51,toan,Toán,20971,20628,98.3644
+51,ngu_van,Ngữ văn,20971,20816,99.2609
+51,ngoai_ngu,Ngoại ngữ,20971,4539,21.6442
+51,vat_li,Vật lý,20971,7242,34.5334
+51,hoa_hoc,Hóa học,20971,4590,21.8874
+51,sinh_hoc,Sinh học,20971,765,3.6479
+51,lich_su,Lịch sử,20971,10776,51.3852
+51,dia_li,Địa lý,20971,7651,36.4837
+51,gdkt_pl,GD Kinh tế & Pháp luật,20971,4542,21.6585
+51,tin_hoc,Tin học,20971,335,1.5974
+51,cong_nghe_nn,Công nghệ nông nghiệp,20971,1038,4.9497
+51,cong_nghe_cn,Công nghệ công nghiệp,20971,216,1.03
+52,toan,Toán,36957,36414,98.5307
+52,ngu_van,Ngữ văn,36957,36647,99.1612
+52,ngoai_ngu,Ngoại ngữ,36957,8986,24.3147
+52,vat_li,Vật lý,36957,12504,33.8339
+52,hoa_hoc,Hóa học,36957,8051,21.7848
+52,sinh_hoc,Sinh học,36957,1828,4.9463
+52,lich_su,Lịch sử,36957,17940,48.5429
+52,dia_li,Địa lý,36957,12367,33.4632
+52,gdkt_pl,GD Kinh tế & Pháp luật,36957,9566,25.8841
+52,tin_hoc,Tin học,36957,615,1.6641
+52,cong_nghe_nn,Công nghệ nông nghiệp,36957,1330,3.5988
+52,cong_nghe_cn,Công nghệ công nghiệp,36957,294,0.7955
+56,toan,Toán,21593,21372,98.9765
+56,ngu_van,Ngữ văn,21593,21409,99.1479
+56,ngoai_ngu,Ngoại ngữ,21593,6141,28.4398
+56,vat_li,Vật lý,21593,7895,36.5628
+56,hoa_hoc,Hóa học,21593,4469,20.6965
+56,sinh_hoc,Sinh học,21593,996,4.6126
+56,lich_su,Lịch sử,21593,8955,41.4718
+56,dia_li,Địa lý,21593,6976,32.3068
+56,gdkt_pl,GD Kinh tế & Pháp luật,21593,5475,25.3554
+56,tin_hoc,Tin học,21593,848,3.9272
+56,cong_nghe_nn,Công nghệ nông nghiệp,21593,908,4.2051
+56,cong_nghe_cn,Công nghệ công nghiệp,21593,319,1.4773
+66,toan,Toán,35240,34734,98.5641
+66,ngu_van,Ngữ văn,35240,34911,99.0664
+66,ngoai_ngu,Ngoại ngữ,35240,7156,20.3065
+66,vat_li,Vật lý,35240,10738,30.4711
+66,hoa_hoc,Hóa học,35240,7779,22.0743
+66,sinh_hoc,Sinh học,35240,2173,6.1663
+66,lich_su,Lịch sử,35240,17512,49.6935
+66,dia_li,Địa lý,35240,12742,36.1578
+66,gdkt_pl,GD Kinh tế & Pháp luật,35240,9837,27.9143
+66,tin_hoc,Tin học,35240,525,1.4898
+66,cong_nghe_nn,Công nghệ nông nghiệp,35240,1443,4.0948
+66,cong_nghe_cn,Công nghệ công nghiệp,35240,200,0.5675
+68,toan,Toán,40539,40123,98.9738
+68,ngu_van,Ngữ văn,40539,40183,99.1218
+68,ngoai_ngu,Ngoại ngữ,40539,9022,22.2551
+68,vat_li,Vật lý,40539,13710,33.8193
+68,hoa_hoc,Hóa học,40539,8617,21.2561
+68,sinh_hoc,Sinh học,40539,2412,5.9498
+68,lich_su,Lịch sử,40539,19389,47.828
+68,dia_li,Địa lý,40539,12889,31.7941
+68,gdkt_pl,GD Kinh tế & Pháp luật,40539,11312,27.904
+68,tin_hoc,Tin học,40539,1203,2.9675
+68,cong_nghe_nn,Công nghệ nông nghiệp,40539,1896,4.677
+68,cong_nghe_cn,Công nghệ công nghiệp,40539,214,0.5279
+75,toan,Toán,52275,51869,99.2233
+75,ngu_van,Ngữ văn,52275,51805,99.1009
+75,ngoai_ngu,Ngoại ngữ,52275,14921,28.5433
+75,vat_li,Vật lý,52275,18760,35.8871
+75,hoa_hoc,Hóa học,52275,11265,21.5495
+75,sinh_hoc,Sinh học,52275,2358,4.5108
+75,lich_su,Lịch sử,52275,23653,45.2473
+75,dia_li,Địa lý,52275,20578,39.3649
+75,gdkt_pl,GD Kinh tế & Pháp luật,52275,10353,19.8049
+75,tin_hoc,Tin học,52275,674,1.2893
+75,cong_nghe_nn,Công nghệ nông nghiệp,52275,1035,1.9799
+75,cong_nghe_cn,Công nghệ công nghiệp,52275,452,0.8647
+79,toan,Toán,139114,137916,99.1388
+79,ngu_van,Ngữ văn,139114,137190,98.617
+79,ngoai_ngu,Ngoại ngữ,139114,64523,46.3814
+79,vat_li,Vật lý,139114,63243,45.4613
+79,hoa_hoc,Hóa học,139114,37428,26.9046
+79,sinh_hoc,Sinh học,139114,10774,7.7447
+79,lich_su,Lịch sử,139114,40378,29.0251
+79,dia_li,Địa lý,139114,33023,23.7381
+79,gdkt_pl,GD Kinh tế & Pháp luật,139114,22671,16.2967
+79,tin_hoc,Tin học,139114,2009,1.4441
+79,cong_nghe_nn,Công nghệ nông nghiệp,139114,875,0.629
+79,cong_nghe_cn,Công nghệ công nghiệp,139114,268,0.1926
+80,toan,Toán,27654,27224,98.4451
+80,ngu_van,Ngữ văn,27654,27465,99.3166
+80,ngoai_ngu,Ngoại ngữ,27654,7056,25.5153
+80,vat_li,Vật lý,27654,10768,38.9383
+80,hoa_hoc,Hóa học,27654,7596,27.468
+80,sinh_hoc,Sinh học,27654,1732,6.2631
+80,lich_su,Lịch sử,27654,11507,41.6106
+80,dia_li,Địa lý,27654,9540,34.4977
+80,gdkt_pl,GD Kinh tế & Pháp luật,27654,5980,21.6244
+80,tin_hoc,Tin học,27654,156,0.5641
+80,cong_nghe_nn,Công nghệ nông nghiệp,27654,471,1.7032
+80,cong_nghe_cn,Công nghệ công nghiệp,27654,147,0.5316
+82,toan,Toán,36630,36224,98.8916
+82,ngu_van,Ngữ văn,36630,36389,99.3421
+82,ngoai_ngu,Ngoại ngữ,36630,7437,20.303
+82,vat_li,Vật lý,36630,13734,37.4939
+82,hoa_hoc,Hóa học,36630,9927,27.1007
+82,sinh_hoc,Sinh học,36630,3041,8.3019
+82,lich_su,Lịch sử,36630,16187,44.1906
+82,dia_li,Địa lý,36630,11864,32.3888
+82,gdkt_pl,GD Kinh tế & Pháp luật,36630,8914,24.3352
+82,tin_hoc,Tin học,36630,428,1.1684
+82,cong_nghe_nn,Công nghệ nông nghiệp,36630,949,2.5908
+82,cong_nghe_cn,Công nghệ công nghiệp,36630,407,1.1111
+86,toan,Toán,36284,35895,98.9279
+86,ngu_van,Ngữ văn,36284,36048,99.3496
+86,ngoai_ngu,Ngoại ngữ,36284,5345,14.731
+86,vat_li,Vật lý,36284,11422,31.4794
+86,hoa_hoc,Hóa học,36284,8503,23.4346
+86,sinh_hoc,Sinh học,36284,3278,9.0343
+86,lich_su,Lịch sử,36284,17595,48.4924
+86,dia_li,Địa lý,36284,13616,37.5262
+86,gdkt_pl,GD Kinh tế & Pháp luật,36284,9435,26.0032
+86,tin_hoc,Tin học,36284,1214,3.3458
+86,cong_nghe_nn,Công nghệ nông nghiệp,36284,1272,3.5057
+86,cong_nghe_cn,Công nghệ công nghiệp,36284,590,1.6261
+91,toan,Toán,39861,39216,98.3819
+91,ngu_van,Ngữ văn,39861,39594,99.3302
+91,ngoai_ngu,Ngoại ngữ,39861,8424,21.1334
+91,vat_li,Vật lý,39861,12004,30.1146
+91,hoa_hoc,Hóa học,39861,8406,21.0883
+91,sinh_hoc,Sinh học,39861,3603,9.0389
+91,lich_su,Lịch sử,39861,20214,50.7112
+91,dia_li,Địa lý,39861,14940,37.4802
+91,gdkt_pl,GD Kinh tế & Pháp luật,39861,9428,23.6522
+91,tin_hoc,Tin học,39861,1066,2.6743
+91,cong_nghe_nn,Công nghệ nông nghiệp,39861,846,2.1224
+91,cong_nghe_cn,Công nghệ công nghiệp,39861,405,1.016
+92,toan,Toán,34071,33446,98.1656
+92,ngu_van,Ngữ văn,34071,33613,98.6557
+92,ngoai_ngu,Ngoại ngữ,34071,6162,18.0858
+92,vat_li,Vật lý,34071,10058,29.5207
+92,hoa_hoc,Hóa học,34071,7879,23.1252
+92,sinh_hoc,Sinh học,34071,3575,10.4928
+92,lich_su,Lịch sử,34071,16314,47.8824
+92,dia_li,Địa lý,34071,11275,33.0927
+92,gdkt_pl,GD Kinh tế & Pháp luật,34071,9317,27.3458
+92,tin_hoc,Tin học,34071,1389,4.0768
+92,cong_nghe_nn,Công nghệ nông nghiệp,34071,1276,3.7451
+92,cong_nghe_cn,Công nghệ công nghiệp,34071,605,1.7757
+96,toan,Toán,18319,18070,98.6408
+96,ngu_van,Ngữ văn,18319,18168,99.1757
+96,ngoai_ngu,Ngoại ngữ,18319,2709,14.7879
+96,vat_li,Vật lý,18319,5513,30.0944
+96,hoa_hoc,Hóa học,18319,4534,24.7503
+96,sinh_hoc,Sinh học,18319,2099,11.458
+96,lich_su,Lịch sử,18319,9928,54.1951
+96,dia_li,Địa lý,18319,6443,35.1711
+96,gdkt_pl,GD Kinh tế & Pháp luật,18319,4015,21.9171
+96,tin_hoc,Tin học,18319,606,3.308
+96,cong_nghe_nn,Công nghệ nông nghiệp,18319,427,2.3309
+96,cong_nghe_cn,Công nghệ công nghiệp,18319,204,1.1136

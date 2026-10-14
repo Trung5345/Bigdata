@@ -23,13 +23,6 @@ spark-warehouse/
 metastore_db/
 derby.log
 
-# Du lieu goc va du lieu lon
-data/raw/
-data/processed/
-
-# Ket qua phan tich
-data/analysis/
-
 # Temporary
 *.log
 *.tmp
